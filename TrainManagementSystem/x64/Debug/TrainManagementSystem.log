@@ -1,0 +1,10 @@
+﻿  AdministratorMenu.cpp
+D:\项目\C++Project\TrainManagementSystem\TrainManagementSystem\TrainManagementSystem\AdministratorMenu.cpp(524,38): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ChangeAccountInformation.cpp
+  Login.cpp
+  Main.cpp
+  Registered.cpp
+  StaticMethod.cpp
+  UserMenu.cpp
+  正在生成代码...
+  TrainManagementSystem.vcxproj -> D:\项目\C++Project\TrainManagementSystem\TrainManagementSystem\x64\Debug\TrainManagementSystem.exe
